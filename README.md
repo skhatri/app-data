@@ -5,3 +5,6 @@
 |EPL Historical Data|[Historical](https://raw.githubusercontent.com/skhatri/app-data/refs/heads/main/epl/epl-historical-1992-2024.csv)|
 |EPL Table|[Points Table](https://raw.githubusercontent.com/skhatri/app-data/refs/heads/main/epl/etp-table-1992-2024.csv)|
 |Countries|[Summary](countries/countries_data.csv)|
+|Cycle Stations|[Stations](london_bicycles/cycle-stations)|
+|Cycle Hire|[Hires](london_bicycles/cycle-hire)|
+
