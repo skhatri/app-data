@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "description": "NETFLIX.COM LOS GATOS CA",
+      "display_name": "Netflix Subscription",
+      "account_id": "c1",
+      "amount": 15.99,
+      "transaction_id": "t18",
+      "merchant": {
+        "name": "Netflix",
+        "address": "100 Winchester Circle, Los Gatos, CA 95032, USA",
+        "latitude": 37.2358,
+        "longitude": -121.9623
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-09-25",
+      "value_date": "2025-09-25",
+      "txn_date": "2025-09-25",
+      "sic": "7841",
+      "category": "Entertainment",
+      "notes": "Premium Plan - Monthly subscription",
+      "tags": [
+        "recurring",
+        "subscription"
+      ]
+    },
+    {
+      "description": "AMZN PRIME*MEMBERSHIP SEATTLE WA",
+      "display_name": "Amazon Prime Membership",
+      "account_id": "c2",
+      "amount": 14.99,
+      "transaction_id": "t19",
+      "merchant": {
+        "name": "Amazon Prime",
+        "address": "410 Terry Ave N, Seattle, WA 98109, USA",
+        "latitude": 47.6219,
+        "longitude": -122.3366
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-09-23",
+      "value_date": "2025-09-23",
+      "txn_date": "2025-09-23",
+      "sic": "5968",
+      "category": "Subscription Services",
+      "notes": "Monthly Prime membership",
+      "tags": [
+        "recurring",
+        "subscription"
+      ]
+    },
+    {
+      "description": "NETFLIX.COM LOS GATOS CA",
+      "display_name": "Netflix Subscription",
+      "account_id": "c1",
+      "amount": 15.99,
+      "transaction_id": "t20",
+      "merchant": {
+        "name": "Netflix",
+        "address": "100 Winchester Circle, Los Gatos, CA 95032, USA",
+        "latitude": 37.2358,
+        "longitude": -121.9623
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-08-25",
+      "value_date": "2025-08-25",
+      "txn_date": "2025-08-25",
+      "sic": "7841",
+      "category": "Entertainment",
+      "notes": "Premium Plan - Monthly subscription",
+      "tags": [
+        "recurring",
+        "subscription"
+      ]
+    },
+    {
+      "description": "AMZN PRIME*MEMBERSHIP SEATTLE WA",
+      "display_name": "Amazon Prime Membership",
+      "account_id": "c2",
+      "amount": 14.99,
+      "transaction_id": "t21",
+      "merchant": {
+        "name": "Amazon Prime",
+        "address": "410 Terry Ave N, Seattle, WA 98109, USA",
+        "latitude": 47.6219,
+        "longitude": -122.3366
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-08-23",
+      "value_date": "2025-08-23",
+      "txn_date": "2025-08-23",
+      "sic": "5968",
+      "category": "Subscription Services",
+      "notes": "Monthly Prime membership",
+      "tags": [
+        "recurring",
+        "subscription"
+      ]
+    },
+    {
+      "description": "NETFLIX.COM LOS GATOS CA",
+      "display_name": "Netflix Subscription",
+      "account_id": "c1",
+      "amount": 15.99,
+      "transaction_id": "t22",
+      "merchant": {
+        "name": "Netflix",
+        "address": "100 Winchester Circle, Los Gatos, CA 95032, USA",
+        "latitude": 37.2358,
+        "longitude": -121.9623
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-07-25",
+      "value_date": "2025-07-25",
+      "txn_date": "2025-07-25",
+      "sic": "7841",
+      "category": "Entertainment",
+      "notes": "Premium Plan - Monthly subscription",
+      "tags": [
+        "recurring",
+        "subscription"
+      ]
+    },
+    {
+      "description": "AMZN PRIME VIDEO*M9XY SEATTLE WA",
+      "display_name": "Amazon Prime Video",
+      "account_id": "c1",
+      "amount": 5.99,
+      "transaction_id": "t23",
+      "merchant": {
+        "name": "Amazon Prime Video",
+        "address": "410 Terry Ave N, Seattle, WA 98109, USA",
+        "latitude": 47.6219,
+        "longitude": -122.3366
+      },
+      "product_type": "credit_card",
+      "debit_credit": "DR",
+      "posted_date": "2025-09-20",
+      "value_date": "2025-09-20",
+      "txn_date": "2025-09-20",
+      "sic": "7841",
+      "category": "Entertainment",
+      "notes": "Movie rental - The Matrix Resurrections",
+      "tags": [
+        "digital"
+      ]
+    }
+  ]
+}
